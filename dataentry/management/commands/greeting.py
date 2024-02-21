@@ -3,7 +3,7 @@
 from django.core.management.base import BaseCommand
 
 
-#proposed command=python mange.py greeting Bindu
+#proposed command=python manage.py greeting Bindu
 #proposed output=Hii {name},Good Morning
 
 class Command(BaseCommand):
